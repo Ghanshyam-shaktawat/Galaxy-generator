@@ -1,4 +1,4 @@
-# Three.js Journey
+# A galaxy generator based on the threeJs journey course.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
