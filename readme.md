@@ -1,4 +1,6 @@
-# A galaxy generator based on the threeJs journey course.
+# Web Galaxy Generator.
+
+Based on the theejs journey chapter-19.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
